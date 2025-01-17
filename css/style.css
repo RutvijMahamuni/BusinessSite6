@@ -810,10 +810,11 @@ ul.email li i {
 }
 
 .clientsl_text i img {
-  margin-top: -89px;
+  margin-top: -70px;
   display: block;
   margin-right: 20px;
   float: left;
+  width: 70px;
 }
 
 .clientsl_text h3 {
